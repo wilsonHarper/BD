@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    
+    <url>
+        <loc>https://harpersrl.odoo.com/website/info</loc>
+    </url><url>
+        <loc>https://harpersrl.odoo.com/appointment</loc>
+    </url><url>
+        <loc>https://harpersrl.odoo.com/calendar</loc>
+    </url><url>
+        <loc>https://harpersrl.odoo.com/events</loc>
+    </url><url>
+        <loc>https://harpersrl.odoo.com/</loc>
+    </url><url>
+        <loc>https://harpersrl.odoo.com/contactus</loc>
+        <lastmod>2023-06-12</lastmod>
+    </url>
+</urlset>
